@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Servicios de Mudanza</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 10px 20px;
+        text-align: center;
+    }
+    nav {
+        background-color: #f4f4f4;
+        padding: 10px;
+        text-align: center;
+    }
+    nav a {
+        text-decoration: none;
+        color: #333;
+        padding: 5px 15px;
+        margin: 0 10px;
+        border-radius: 5px;
+    }
+    nav a:hover {
+        background-color: #ddd;
+    }
+    .content {
+        padding: 20px;
+    }
+</style>
+</head>
+<body>
+<header>
+    <h1>Servicios de Mudanza</h1>
+</header>
+<nav>
+    <a href="#servicio1">Servicio 1</a>
+    <a href="#servicio2">Servicio 2</a>
+    <a href="#servicio3">Servicio 3</a>
+    <a href="#contacto">Contacto</a>
+</nav>
+<div id="servicio1" class="content">
+    <h2>Servicio 1</h2>
+    <p>Descripción del servicio 1...</p>
+</div>
+<div id="servicio2" class="content">
+    <h2>Servicio 2</h2>
+    <p>Descripción del servicio 2...</p>
+</div>
+<div id="servicio3" class="content">
+    <h2>Servicio 3</h2>
+    <p>Descripción del servicio 3...</p>
+</div>
+<div id="contacto" class="content">
+    <h2>Contacto</h2>
+    <p>Información de contacto...</p>
+</div>
+</body>
+</html>
